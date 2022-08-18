@@ -7,6 +7,6 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    s1='python'
-    s2=' coder'
-    return (s1+s2)
+    
+    return s1+s2
+# print(main('python',' coder'))
