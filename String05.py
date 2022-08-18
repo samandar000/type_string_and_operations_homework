@@ -7,4 +7,6 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    s1='python'
+    s2='code'
+    return s1+s2
